@@ -18,20 +18,20 @@
 		"node": ">=18.0.0"
 	},
 	"dependencies": {
-		"@tomphttp/bare-server-node": "^1.1.0",
-		"address": "^1.2.0",
-		"chalk": "^5.0.1",
-		"dotenv-expand": "^8.0.3",
+		"@tomphttp/bare-server-node": "^1.2.2",
+		"address": "^1.2.1",
+		"chalk": "^5.1.2",
+		"dotenv-expand": "^9.0.0",
 		"dotenv-flow": "^3.2.0",
-		"express": "^4.18.1",
+		"express": "^4.18.2",
 		"express-http-proxy": "^1.6.3",
-		"rammerhead": "https://github.com/holy-unblocker/rammerhead/releases/download/v1.2.41-holy/rammerhead-1.2.41-holy.tgz",
+		"rammerhead": "https://github.com/holy-unblocker/rammerhead/releases/download/v1.2.41-holy.5/rammerhead-1.2.41-holy.5.tgz",
 		"rimraf": "^3.0.2",
-		"website": "https://github.com/holy-unblocker/website-embedded/releases/download/v1.0.0-holy/website-1.0.0-holy.tgz"
+		"website": "https://github.com/holy-unblocker/website-embedded/releases/download/v1.0.0-holy.6/website-1.0.0-holy.6.tgz"
 	},
 	"devDependencies": {
-		"@ianvs/prettier-plugin-sort-imports": "^3.4.2",
-		"eslint": "^8.23.0",
-		"prettier": "^2.7.1"
+		"@ianvs/prettier-plugin-sort-imports": "^3.7.1",
+		"eslint": "^8.29.0",
+		"prettier": "^2.8.0"
 	}
 }
