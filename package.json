@@ -14,8 +14,8 @@
 		"start": "node scripts/start.js"
 	},
 	"engines": {
-		"npm": ">=7.0.0",
-		"node": ">=18.0.0"
+		"npm": ">=7.x",
+		"node": ">=18.x"
 	},
 	"dependencies": {
 		"@tomphttp/bare-server-node": "^1.2.2",
